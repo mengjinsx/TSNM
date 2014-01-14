@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="gb2312"?>
+<messages>
+<message id="1">
+   <title>11</title>
+   <content>
+    <name>lvpingyu</name>
+    <age>23</age>
+   </content>
+   <email>33</email>
+</message>
+<message id="2">
+   <title>44</title>
+   <content>
+    <name>lvpingyu</name>
+    <age>23</age>
+   </content>
+   <email>66</email>
+</message>
+</messages>
+

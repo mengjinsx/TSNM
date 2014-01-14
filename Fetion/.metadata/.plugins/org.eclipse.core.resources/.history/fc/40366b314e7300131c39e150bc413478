@@ -1,0 +1,21 @@
+
+public class Possion {
+public static void main(String[] args) {
+	
+}
+public static double possion(int k){
+	double result;
+	result = Math.pow(Math.E,-2)*Math.pow(2, k)/factorial(k);
+	
+	return result;
+}
+public static double factorial(int n) {  
+     
+        double result = 1.0;  
+        for (int i = 1; i <= n; i++) {  
+            result *= i;  
+        }  
+        return result;  
+    }  
+  
+}

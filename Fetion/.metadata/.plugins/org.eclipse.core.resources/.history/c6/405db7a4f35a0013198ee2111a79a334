@@ -1,0 +1,5 @@
+package com.tanist.rmitest;
+
+public class HelloServer {
+
+}
